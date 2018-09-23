@@ -13,7 +13,7 @@ media
 # editor
 *~
 *.swp
-
+.idea
 
 # pyenv
 .python-version
